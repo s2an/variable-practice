@@ -11,3 +11,9 @@ year_synthesized = 1902
 specific_gravity_avg = 4.01
 refractive_index_avg = 1.77
 birefringence = -0.008
+
+### Booleans
+rubies_red = true
+violets_blue = true
+onions_stink = true
+you_stink = false
